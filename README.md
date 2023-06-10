@@ -1,2 +1,3 @@
-# cog-potat
-Text to video using Potat model
+# cog-potat-text2video
+
+A Cog implementation for https://huggingface.co/camenduru/potat1
